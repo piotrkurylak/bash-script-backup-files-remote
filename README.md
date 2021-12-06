@@ -1,5 +1,5 @@
 # bash-script-backup-files
-Bash script which allows to create compressed archive.
+Bash script which allows to create compressed archive and transfer it to remote machine.
 
 # Requirements
 Due to create lock file you have to have superuser privileges.
